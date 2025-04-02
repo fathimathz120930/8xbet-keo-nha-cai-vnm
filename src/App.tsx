@@ -190,20 +190,20 @@ function App() {
 </p>
 
     
-          <h3 className="font-bold text-2xl mb-4 text-blue-600 dark:text-blue-400">Quản lý nguồn chi tiêu thể thao hiệu quả</h3>
+          <h3 className="font-bold text-2xl mb-4 text-white">Quản lý nguồn chi tiêu thể thao hiệu quả</h3>
               
                  <p className="text-gray-700 text-white text-lg leading-relaxed">
           Việc thứ hai mà thành viên cần thực hiện đúng để có một quy trình trải nghiệm ổn áp hơn, đó chính là quản lý nguồn chi tiêu của bản thân. Theo như lời khuyên từ chuyên gia bóng đá 8xbet, người chơi nên chia nhỏ lẻ số tiền cược của mình ra, sau đó đặt một giới hạn rõ ràng về việc thắng và thua cuộc. Nếu như bạn thua thì không nên cố gỡ, hoặc nếu bạn thắng nhiều lần thì nhất định phải bình tĩnh và dừng lại đúng lúc.
 </p>
 
-         <h3 className="font-bold text-2xl mb-4 text-blue-600 dark:text-blue-400">Tìm thông tin đến từ nhiều nguồn uy tín
+         <h3 className="font-bold text-2xl mb-4 text-white">Tìm thông tin đến từ nhiều nguồn uy tín
 </h3>
               
                  <p className="text-gray-700 text-white text-lg leading-relaxed">
           Hiện nay, nhà cái 8xbet có cung cấp đa dạng các diễn đàn soi kèo chuẩn cũng như công cụ giải mã thông tin hiện đại. Nếu như bạn có thể tận dụng những nguồn uy tín này thì quá trình phân tích kèo cược của bạn sẽ diễn ra ngày một tốt đẹp hơn nữa.
 </p>
 
-          <h3 className="font-bold text-2xl mb-4 text-blue-600 dark:text-blue-400">Kỷ luật đi kèm kiên nhẫn
+          <h3 className="font-bold text-2xl mb-4 text-white">Kỷ luật đi kèm kiên nhẫn
 </h3>
               
                  <p className="text-gray-700 text-white text-lg leading-relaxed">

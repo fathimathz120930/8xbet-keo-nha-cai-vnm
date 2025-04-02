@@ -55,14 +55,13 @@ function App() {
            
            
           <div className="grid grid-cols-2 gap-6 p-6 text-justify bg-white shadow-lg rounded-lg">
-      <div className="text-dark text-lg font-medium shadow-lg">
+      <div className="text-dark text-lg font-medium shadow-lg p-4">
         <strong>Kèo nhà cái </strong>và những bí ẩn nằm đằng sau nó luôn là chủ đề nóng hổi thu hút đông đảo sự quan tâm của hàng triệu người chơi. Để có thể giành được chiến thắng vẻ vang và rinh về những phần thưởng siêu hấp dẫn, việc lựa chọn kèo cược chính xác là yếu tố quyết định.
       </div>
-      <div className="text-dark text-lg font-medium shadow-lg">
+      <div className="text-dark text-lg font-medium shadow-lg p-4">
         Chính vì vậy, <strong>8xbet </strong>sẽ khám phá sự thật thú vị đằng sau những con số may mắn được gắn mác là “số đẹp”, cũng như phương pháp chính xác chọn ra các con số này hiệu quả. Cùng theo dõi bài viết dưới đây nhé!
       </div>
     </div>
-
 
            
             <h2 className="text-4xl md:text-5xl font-bold text-center my-8 bg-gradient-to-r from-blue-600 to-purple-600 text-transparent bg-clip-text">

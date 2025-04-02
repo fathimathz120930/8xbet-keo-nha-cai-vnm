@@ -54,8 +54,7 @@ function App() {
           <section className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-8 mb-12">
            
            
-
-          <div className="grid grid-cols-2 gap-6 p-6 text-center">
+          <div className="grid grid-cols-2 gap-6 p-6 text-justify bg-white shadow-lg rounded-lg">
       <div className="text-dark text-lg font-medium">
         <strong>Kèo nhà cái </strong>và những bí ẩn nằm đằng sau nó luôn là chủ đề nóng hổi thu hút đông đảo sự quan tâm của hàng triệu người chơi. Để có thể giành được chiến thắng vẻ vang và rinh về những phần thưởng siêu hấp dẫn, việc lựa chọn kèo cược chính xác là yếu tố quyết định.
       </div>
